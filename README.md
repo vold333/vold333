@@ -15,6 +15,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Projects
+- [Bill Biriyani](https://github.com/vold333/Bill-Biriyani.git) - Flutter + Firebase
 - [Fitness Tracker](https://github.com/vold333/flutter-fitness-app.git) – Flutter + Google Kit + Firebase  
 - [Kitchen Order Ticket](https://github.com/vold333/kitchen-order-ticket.git) – React + Node.js  
 - **More Projects Coming Soon** 🚀
