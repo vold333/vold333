@@ -1,8 +1,8 @@
 # Hi, I'm My Sudharsan 👋
 
 ## About Me
-- Mobile & Web Developer | Flutter, React, Node.js
-- Building Delivery & Inventory Apps
+- Mobile & Web Developer | Flutter, React, React Native, Node.js
+- Building whatever I could :)
 
 ## Skills
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -10,9 +10,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Projects
-- [Delivery App](https://github.com/username/delivery-app) – Flutter + Firebase
-- [Restaurant Management](https://github.com/username/restaurant-app)
+- [Fitness tracker](https://github.com/vold333/flutter-fitness-app.git) - Flutter + google kit + firebase
+- [Kitchen order ticket](https://github.com/vold333/kitchen-order-ticket.git) – React + Node.js
 
 ## Contact
-- 📫 Email: myemail@example.com
-- 🔗 LinkedIn: [link](https://linkedin.com/in/username)
+- 📫 Email: sudharsanselvaraj333@gmail.com
+- 🔗 LinkedIn: [Sudharsan S](www.linkedin.com/in/sudharsan-s3)
