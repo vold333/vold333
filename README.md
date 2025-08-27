@@ -26,6 +26,8 @@
 
 ---
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vold333.vold333)
+
 ### GitHub Stats
 ![Sudharsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vold333&show_icons=true&theme=radical)
 
