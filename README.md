@@ -1,7 +1,7 @@
 # Hi, I'm My Sudharsan 👋
 
 ## About Me
-- Mobile & Web Developer | Flutter, React, React Native, Node.js, Firebase 
+- Mobile & Web Full Stack Developer | Flutter, React, React Native, Node.js, Firebase 
 - Building whatever I could :)  
 - Passionate about full-stack apps, cloud integrations, and smooth UX  
 
